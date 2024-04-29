@@ -1,1 +1,1 @@
-# speech-classification-for-stroke-diagnosis
+# Speech-classification-for-stroke-diagnosis
